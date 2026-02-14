@@ -15,7 +15,7 @@ contribution workshops and open-source programs.
 
 ```bash
 # Clone the repository
-git clone https://github.com/anxkhn-hacker/fastapi-workshop.git
+git clone https://github.com/anxkhn/fastapi-workshop.git
 cd fastapi-workshop
 
 # Create a virtual environment and install dependencies
